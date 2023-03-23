@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "uts-pam-248",
+    "slug": "uts-pam-248",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.syafira.utspam"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "06e34cd4-6f13-488e-9b13-8bd2736c60ea"
+      }
+    }
+  },
+  "name": "uts-pam-248"
+}
